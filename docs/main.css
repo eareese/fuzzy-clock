@@ -1,0 +1,23 @@
+body {
+    background-color: #ddd;
+}
+
+.fzc-container {
+    height: 94vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.fzc-main {
+    flex-grow: 1;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.fzc-clock {
+    font-size: 7rem;
+}
+
+.fzc-about {
+    text-align: center;
+}
